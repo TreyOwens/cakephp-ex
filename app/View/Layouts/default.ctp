@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CakePHP application on OpenShift --- TREY</h1>
+            <h1>OS ERROR MESSAGE: 42308, MESSAGE: "Matt Sucks"</h1>
           </hgroup>
 
 
