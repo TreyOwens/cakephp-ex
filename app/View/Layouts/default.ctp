@@ -43,13 +43,13 @@ section{
 }
 body {
   color: #404040;
-  font-family: "Wing Dings",WINGDINGS,"Liberation Sans",Arial,sans-serif;
+  font-family: "Wing Dings",WINGDINGS,"Liberation Sans",Arial,sans-serif,comic-sans;
   font-size: 14px;
   line-height: 1.4;
 }
 
 html {
-  font-family: sans-serif;
+  font-family: comic-sans;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
